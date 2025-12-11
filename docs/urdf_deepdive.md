@@ -80,4 +80,4 @@ For scalar/diagonal cases when d is along a single axis this simplifies to addin
 - `check_urdf` — basic URDF validation.
 - `urdf_tutorial` and RViz visual checks for link frames and CoM.
 
-If you'd like, I can add example Python scripts to compute composite inertia from primitive shapes, or run a quick check/visualization of your URDFs.
+If desired, example Python scripts to compute composite inertia from primitive shapes or a validation script can be provided upon request.
